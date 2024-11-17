@@ -35,7 +35,7 @@ To get started, ensure you have the necessary Python libraries and tools install
 ## How to run (FINAL STEP)
 
     chmod +x HYTTPS.py
-    ./HYTTPS
+    python3 HYTTPS.py
 
 ## Overview
 
