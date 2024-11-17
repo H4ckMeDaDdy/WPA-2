@@ -1,0 +1,7 @@
+colorama
+netifaces
+
+# Additional Notes
+#      ↓↓↓
+# -Ensure you have Python 3.12 installed.
+# -The script uses some system commands (airmon-ng, airodump-ng, aireplay-ng, aircrack-ng, ifconfig, etc.) but it should all be installed by your system.
