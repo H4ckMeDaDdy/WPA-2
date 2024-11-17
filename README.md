@@ -11,7 +11,7 @@ _________
     Kali Linux (Every Distro)
     Parrot Security OS
 
-## How to install (follow the ↓ in order)
+## How to install
 
 **If you download it as a .zip file, it will not run. Make sure to follow these instructions in order.**
 
