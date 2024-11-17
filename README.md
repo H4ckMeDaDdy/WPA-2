@@ -20,19 +20,16 @@ _________
     apt-get update
     git clone https://github.com/NoxtyHC/HYTTPS.git
     cd HYTTPS
+    cd HYTTPS
 
-↓↓↓   ↓↓↓   ↓↓↓   ↓↓↓
-
-## Installation Requirements (follow the ↓)
+## Installation Requirements
 
 To get started, ensure you have the necessary Python libraries and tools installed
 
     Python3.12
     pip3 install -r requirements.txt
 
-↓↓↓   ↓↓↓   ↓↓↓   ↓↓↓ 
-
-## How to run (FINAL STEP)
+## How to run
 
     chmod +x HYTTPS.py
     python3 HYTTPS.py
