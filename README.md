@@ -6,10 +6,9 @@ _________
 
 **HYTTPS** is a robust Python-based toolkit designed for penetration testing of wireless networks, specifically targeting **WPA/WPA2 handshakes**. This tool provides security professionals with a comprehensive set of features to assess the integrity of wireless networks and **identify potential vulnerabilities**.
 
-## Supported Operating Systems
+## Supported Kernel
 
     Kali Linux (Every Distro)
-    Parrot Security OS
 
 ## How to install
 
