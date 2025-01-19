@@ -66,7 +66,7 @@ ___  ___       ___    ___  _________    _________    ________    ________
               \|___|/                                               \|_________|
     """
     version = "v1.0"
-    author = "by Noxty"
+    author = "by TR0JNN"
 
     print(Fore.RED + Style.BRIGHT + title_ascii.center(60, ' '))
     print(Fore.WHITE + Style.BRIGHT + version.center(60, ' '))
