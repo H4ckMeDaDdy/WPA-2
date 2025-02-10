@@ -1,4 +1,4 @@
-# Welcome to the HYTTPS script v1.0
+# Welcome to HYTTPS script v2.0
 
 _________
 
