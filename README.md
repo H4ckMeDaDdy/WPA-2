@@ -9,7 +9,6 @@ _________
 ## Supported Kernel
 
     Linux (Every Distro)
-    Windows (10/11)
 
 ## How to install
 
