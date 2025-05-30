@@ -8,7 +8,8 @@ _________
 
 ## Supported Kernel
 
-    Kali Linux (Every Distro)
+    Linux (Every Distro)
+    Windows (10/11)
 
 ## How to install
 
