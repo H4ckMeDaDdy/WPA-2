@@ -17,7 +17,7 @@ _________
 **make sure you are a root user**
 
     apt-get update
-    git clone https://github.com/NoxtyHC/HYTTPS.git
+    git clone https://github.com/TR0JNN/HYTTPS.git
     cd HYTTPS
     cd HYTTPS
 
