@@ -80,7 +80,7 @@ def animated_title():
 //                                                             
     """
     version = "v2.0"
-    author = "by YETTYS"
+    author = "by Elvyns"
 
     print(Fore.RED + Style.BRIGHT + title_ascii.center(60, ' '))
     print(Fore.WHITE + Style.BRIGHT + version.center(60, ' '))
@@ -184,4 +184,5 @@ def main():
         subprocess.call(command, shell=True)
 
 if __name__ == "__main__":
+
     main()
