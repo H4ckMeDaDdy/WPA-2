@@ -80,11 +80,13 @@ def animated_title():
 //                                                             
     """
     version = "v2.0"
-    author = "by 𝐇𝟒𝐜𝐤𝐌𝐞𝐃𝐚𝐃𝐝𝐲"
+    author = "Developed by: 𝐇𝟒𝐜𝐤𝐌𝐞𝐃𝐚𝐃𝐝𝐲"
+    github = "https://github.com/H4ckMeDaDdy"
 
     print(Fore.RED + Style.BRIGHT + title_ascii.center(60, ' '))
     print(Fore.WHITE + Style.BRIGHT + version.center(60, ' '))
     print(Fore.CYAN + Style.BRIGHT + author.center(60, ' '))
+    print(Fore.CYAN + Style.BRIGHT + github.center(60, ' '))
     print("\n" + Fore.GREEN + "=" * 60 + "\n")
 
 def loading_animation():
@@ -186,4 +188,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
