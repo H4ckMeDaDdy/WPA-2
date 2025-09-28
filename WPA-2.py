@@ -80,7 +80,7 @@ def animated_title():
 //                                                             
     """
     version = "v2.0"
-    author = "by Elvyns"
+    author = "by 𝐇𝟒𝐜𝐤𝐌𝐞𝐃𝐚𝐃𝐝𝐲"
 
     print(Fore.RED + Style.BRIGHT + title_ascii.center(60, ' '))
     print(Fore.WHITE + Style.BRIGHT + version.center(60, ' '))
@@ -186,3 +186,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
